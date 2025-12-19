@@ -2,7 +2,7 @@
 
 Sistema avançado de controle financeiro, investimentos e projeções patrimoniais desenvolvido em Excel + VBA, com foco em automação, segurança, confiabilidade e simulação de cenários de curto, médio e longo prazo.
 
----
+![Visão Geral](Images/visao-geral.png)
 
 ## Visão Geral
 
@@ -54,7 +54,12 @@ A planilha foi estruturada em camadas lógicas para garantir organização e esc
 * Proteção de células críticas e fórmulas.
 * Controle estrito de acesso à edição.
 
----
+![Patrimonio](Images/CONTROLE-FINANCEIRO-PREMIUM-AVANCADO-5.png)
+<div align="center">
+    
+![Cotação de Moedas](Images/Cotacao-de-moedas-samaritano.gif)
+
+</div>
 
 ## Fonte e Atualização de Dados
 
@@ -88,7 +93,7 @@ Suporte para: **Real (CDI, CDB, Tesouro), Dólar, Euro, Bitcoin (Satoshi) e Altc
 * **Simulador de Meta:** Calcula o tempo necessário (em anos, meses e dias) para atingir um valor desejado em três cenários: **Ideal, Pior Cenário e Projetado.**
 * **Aposentadoria:** Projeção de crescimento linear com ajustes de inflação configuráveis (6%, 8%, 12% ou personalizado).
 
----
+![Projeção](Images/projecao-planilha-samaritano-planilhas.gif)
 
 ## Estrutura Técnica (VBA)
 
@@ -138,7 +143,10 @@ End Sub
 * **Novo Ciclo:** Preparação da planilha para um novo ano/período financeiro.
 * **Eficiência:** Evita a exclusão manual célula a célula, prevenindo erros de deleção acidental de fórmulas.
 
----
+<div align="center">
+  <img src="Images/CONTROLE-FINANCEIRO-PREMIUM-AVANCADO-14.png" alt="Reset" width="300">
+</div>
+
 
 ## 🔐 Segurança e Proteção
 
@@ -164,10 +172,10 @@ Pontos críticos resolvidos através de engenharia de software no Excel:
 
 Este é um produto real e comercializado no mercado:
 
-* **Pagamento:** Integrado via **Lightning Network** (NOWPayments).
+* **Pagamento:** Em moeda local e em satoshis/bitcoin Integrado via **Lightning Network** (NOWPayments).
 * **Documentação:** Manual em PDF integrado para o usuário final.
 * **Suporte:** [contato@samaritano.online](mailto:contato@samaritano.online)
-* **Site Oficial:** [samaritano.online](https://samaritano.online)
+* **Site Oficial:** [Samaritano](https://samaritano.online/produto/controlefinanceiro-avancado/)
 
 ---
 
@@ -191,5 +199,6 @@ Este é um produto real e comercializado no mercado:
 
 ## 👤 Autor
 
-**Bruno P.** *Analista de Dados* Excel Avançado | VBA | Power BI
+Desenvolvido por [**Bruno P.**](https://github.com/bpb-bruno)
+Email: [contato@brunopbrito.com.br](mailto:contato@brunopbrito.com.br)
 
