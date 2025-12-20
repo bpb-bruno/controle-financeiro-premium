@@ -199,6 +199,5 @@ Este é um produto real e comercializado no mercado:
 
 ## 👤 Autor
 
-Desenvolvido por [**Bruno P.**](https://github.com/bpb-bruno)
-Email: [contato@brunopbrito.com.br](mailto:contato@brunopbrito.com.br)
+Desenvolvido por [**Bruno P.**](https://github.com/bpb-bruno) | Email: [contato@brunopbrito.com.br](mailto:contato@brunopbrito.com.br)
 
